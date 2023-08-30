@@ -1,0 +1,38 @@
+body{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 180px;
+    background-color: rgb(105, 105, 184);
+}
+#month{
+    background-color:red;
+    color: white;
+    padding: 10px;
+    margin: 0;
+    font-size: 25px;
+}
+#calendar{
+    border: 0px solid black;
+    width: 22%;
+    text-align: center;
+    border-radius: 12px;
+    background-color: white;
+    box-shadow: 2px 2px 6px rgb(44, 44, 44);
+}
+#day{
+    color: darkgray;
+    font-size: 20px;
+    margin-top: 30px;
+}
+#date{
+    font-size: 70px;
+    font-weight: 800;
+}
+#year{
+    color: darkgray;
+    font-size: 20px;
+    margin-bottom: 15px;
+}
