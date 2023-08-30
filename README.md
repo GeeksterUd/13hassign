@@ -1,1 +1,3 @@
 # 13hassign
+i created three files in html file i created  a div inside the div i created four para tags for month year day and date in css i applied the styling to html in js
+file i get all para elements using .get element by id then i created a variable currdate which will store the current date and time using Date() then i created the month array which will store all months value from jan to dec and also created days array which store days then i will show my date and year in p tag using .innerhtml or .inner text and i get that value using .getdate() on currdate and .getyear() on currdate which will give me date and year from currdate and for months and days i used .getmonth and .getday on currdate from  their respective array and show the value using .innerhtml
